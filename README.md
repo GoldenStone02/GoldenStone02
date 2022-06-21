@@ -1,5 +1,5 @@
 ## Hi there👋
-* I'm a Student at [Singapore Polytechnic](https://www.sp.edu.sg/) _(DISM)_
+* I'm a Student at [Singapore Polytechnic](https://www.sp.edu.sg/). Currently studying Diploma in Infocomm Security Management _(DISM)_
 * I'm interested in Game Development and Cybersecurity
 
 
