@@ -1,8 +1,5 @@
 ## Hi there👋
-* I'm interested in Game Development and Cybersecurity
-* I'm currently studying in [Singapore Polytechnic](https://www.sp.edu.sg/) pursuing a Diploma in Infocomm Security Management _(DISM)_
+* 🎮 Interested in Game Development and Cybersecurity
+* 🎓 Studied @ [Singapore Polytechnic](https://www.sp.edu.sg/), DCDF (formally DISM)
 
-<!---
-GoldenStone02/GoldenStone02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for visiting!
