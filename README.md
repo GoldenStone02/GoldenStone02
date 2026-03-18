@@ -1,5 +1,9 @@
-## Hi there👋
-* 🎮 Interested in Game Development and Cybersecurity
-* 🎓 Studied @ [Singapore Polytechnic](https://www.sp.edu.sg/), DCDF (formally DISM)
 
-Thanks for visiting!
+<div align="center">
+<br><br>
+<pre>
+    🏛️ Dip. @ SP | BSc @ NTU • Security Researcher
+    💻 C/C++ • Python • Go
+    📖 Offensive Security • DevSecOps • Web Security
+    🎮 Music • Games • Anime • Code • Art
+</pre>
